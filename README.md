@@ -1,4 +1,4 @@
-# smacc_curation
+# Curation of SMACC and Heli-SMACC databases
 
 * The "datasets" folder contains the Heli-SMACC and SMACC databases.
 
