@@ -1,5 +1,5 @@
 # Curation of SMACC and Heli-SMACC databases
 
-* The "datasets" folder contains the Heli-SMACC and SMACC databases after cleaning.
+* The "datasets" folder contains the clean Heli-SMACC and SMACC databases.
 
-* The "curation_workflows" folder contains the KNIME workflows used for curation of Heli-SMACC and SMACC databases. A third generic workflow is also included containing all the steps necessary for data curation of chemogenomics data following the best practices.
+* The "curation_workflows" folder contains the KNIME workflows used to curate Heli-SMACC and SMACC databases. A third general workflow of data curation is also included.
